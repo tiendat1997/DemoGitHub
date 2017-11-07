@@ -20,6 +20,7 @@ public class DemoGit {
         System.out.println("Hello world 2 !");        
         System.out.println("Write someohting");
         System.out.println("Sửa nè !!");
+        System.out.println("Sửa lại nữa nè");
     }
     
 }
