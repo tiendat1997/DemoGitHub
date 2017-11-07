@@ -26,6 +26,7 @@ public class DemoGit {
         System.out.println("Sửa lại nữa nè");
         
         System.out.println("AHIHIHHIHIHIH");
+        System.out.println("thử lại nè :D");
     }
     
 }
