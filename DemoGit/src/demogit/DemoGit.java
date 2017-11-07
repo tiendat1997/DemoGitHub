@@ -30,6 +30,9 @@ public class DemoGit {
         System.out.println("Ta la Dat - It's me");
         
         
+        System.out.println("S?a th�m ??t n� haha");
+        System.out.println("thử lại nè :D");
+        System.out.println("AHUHU :(((");
     }
     
 }
